@@ -8,7 +8,6 @@
 [Español](https://zdoc.app/es/Significant-Gravitas/AutoGPT) | 
 [français](https://zdoc.app/fr/Significant-Gravitas/AutoGPT) | 
 [日本語](https://zdoc.app/ja/Significant-Gravitas/AutoGPT) | 
-[한국어](https://zdoc.app/ko/Significant-Gravitas/AutoGPT) | 
 [Português](https://zdoc.app/pt/Significant-Gravitas/AutoGPT) | 
 [Русский](https://zdoc.app/ru/Significant-Gravitas/AutoGPT) | 
 [中文](https://zdoc.app/zh/Significant-Gravitas/AutoGPT)
