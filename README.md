@@ -68,6 +68,11 @@ For macOS/Linux:
 ```
 curl -fsSL https://setup.agpt.co/install.sh -o install.sh && bash install.sh
 ```
+Docker install required!
+```
+https://docs.docker.com/engine/install/ubuntu/
+```
+Git install required!
 
 For Windows (PowerShell):
 ```
